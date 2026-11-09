@@ -1,0 +1,35 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/2buz72nby3mes.js"
+3:I[97363,["$2"],"default"]
+4:I[46305,["$2"],"default"]
+5:"/_next/static/chunks/0tg098pwsh7zr.js"
+6:"/_next/static/chunks/2s_l860s5kesf.js"
+7:"/_next/static/chunks/2dzw9j6m43ang.js"
+8:I[51196,["$2","$5","$6","$7"],""]
+9:I[22098,["$2"],"PortfolioSound"]
+a:"PortfolioReturnTransition"
+b:I[41110,["$2"],"$a"]
+d:I[63317,["$2","$5"],"WorkMediaReveal"]
+12:I[43648,["$2"],"OutletBoundary"]
+13:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[43648,["$2"],"$15"]
+18:"MetadataBoundary"
+19:I[43648,["$2"],"$18"]
+1b:I[4412,["$2"],"default",1]
+:HL["/_next/static/chunks/13oyzjyb423vo.css","style"]
+:HL["/_next/static/chunks/3gu4ztoref1g_.css","style"]
+:HL["/_next/static/chunks/0eny5p-c7rt2f.css","style"]
+f:X
+10:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L11",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3gu4ztoref1g_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0eny5p-c7rt2f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2s_l860s5kesf.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/2dzw9j6m43ang.js","async":true,"nonce":"$undefined"}]],["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}],"p":false,"v":null}}]]
+e:[["children",{"s":{"n":"slug","t":"d","k":"b2b-marketplace","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q10"}]]
+c:[["children",{"s":"work","h":131584,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/0tg098pwsh7zr.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],"p":false,"v":null},"c":"$Qe"}]]
+0:{"P":null,"c":["","work","b2b-marketplace",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/13oyzjyb423vo.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2buz72nby3mes.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"跳到主要内容"}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"not-found","children":[["$","span",null,{"children":"404 / NOT FOUND"}],["$","h1",null,{"children":"A little off track."}],["$","p",null,{"children":"这个页面还不存在，回到作品集继续浏览。"}],["$","$L8",null,{"href":"/","children":"返回首页 ↗"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L9",null,{}],["$","$Lb",null,{}]]}]}]]}],"p":false,"v":null},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":"$L1a"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1b",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/13oyzjyb423vo.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"WIu1P2Lqu7nv_C2pqIHt9"}
+1c:"B2BMarketplaceCase"
+1d:I[73360,["$2","$5","$6","$7"],"$1c"]
+f:C
+11:["$","$L1d",null,{}]
+17:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1e:I[28035,["$2"],"IconMark"]
+14:null
+1a:[["$","title","0",{"children":"B端商城体验设计 — 张雪莹"}],["$","meta","1",{"name":"description","content":"雪莹的个人设计作品集。探索 AI 产品体验、AI 设计工作流、智能终端、商业产品与营销视觉。"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/icon.svg?icon.0491i68b3b_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1e","4",{}]]

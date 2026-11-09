@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 9 9" shape-rendering="crispEdges">
+  <defs>
+    <path id="smile" d="M2 2h1v2H2z M6 2h1v2H6z M1 5h1v1h5V5h1v1H7v1H2V6H1z"/>
+  </defs>
+  <use href="#smile" fill="#15151f" stroke="#fff" stroke-width=".9"/>
+  <use href="#smile" fill="#15151f" stroke="#15151f" stroke-width=".45"/>
+</svg>
